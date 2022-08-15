@@ -1,2 +1,2 @@
 # DemoGameServer
-Built using Minhook and Graphical Rendering
+Built using Minhook and Graphical Rendering, and the DiscordSDK
